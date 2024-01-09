@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"my_stack":[["impl&lt;T&gt; Freeze for <a class=\"struct\" href=\"my_stack/stack/struct.Stack.html\" title=\"struct my_stack::stack::Stack\">Stack</a>&lt;T&gt;",1,["my_stack::stack::Stack"]],["impl Freeze for <a class=\"enum\" href=\"my_stack/stack/enum.StackError.html\" title=\"enum my_stack::stack::StackError\">StackError</a>",1,["my_stack::stack::StackError"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
